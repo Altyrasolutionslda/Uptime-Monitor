@@ -1,31 +1,46 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: Altyrasolutionslda # GitHub organization or username, where this repository lives
+repo: Uptime-Monitor # The name of this repository
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  #APORMOR
+  - name: Apormor
+    url: $SECRET_SITE1
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico
+    assignees:
+      - nevespt
+  #CNCP
+  - name: CNCP
+    url: $SECRET_SITE2
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico
+  #FNAC (GC)
+  - name: Gestão Campanhas
+    url: $SECRET_SITE3
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconFNAC.ico
+    assignees:
+      - ivoprotasioAltyra
+  #GV
+  - name: Gestão Voluntariado
+    url: $SECRET_SITE4
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico
+    assignees:
+      - RProtasio
+assignees: # Users to assign downtime issues
+  - andrenevesgomes
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  baseUrl: /Uptime-Monitor
+  theme: night
+  favicon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
+  faviconSvg: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.svg
+  logoUrl: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
+  name: Altyra Solutions Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: https://altyrasolutionslda.github.io/Uptime-Monitor
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+      href: https://github.com/Altyrasolutionslda
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
