@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE1",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico",
     "slug": "apormor",
-    "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
+    "time": 1225,
+    "timeDay": 1225,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico",
     "slug": "cncp",
     "status": "down",
-    "uptime": "3.61%",
-    "uptimeDay": "3.61%",
-    "uptimeWeek": "3.61%",
-    "uptimeMonth": "3.61%",
-    "uptimeYear": "3.61%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 9
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconFNAC.ico",
     "slug": "gestao-campanhas",
     "status": "down",
-    "uptime": "7.44%",
-    "uptimeDay": "7.44%",
-    "uptimeWeek": "7.44%",
-    "uptimeMonth": "7.44%",
-    "uptimeYear": "7.44%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 9
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "down",
-    "uptime": "4.72%",
-    "uptimeDay": "4.72%",
-    "uptimeWeek": "4.72%",
-    "uptimeMonth": "4.72%",
-    "uptimeYear": "4.72%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 9
     }
   }
 ]
