@@ -67,8 +67,6 @@ status-website:
       content: "#263c39"
     - name: "apple-mobile-web-app-status-bar-style"
       content: "#263c39"
-    - name: "description"
-      content: "Altyra Solutions was born to meet the growing demand for tailor-made software development solutions. Our signature "Let's make IT done" reflects our commitment to developing solutions for the needs created by the challenging process of digital transformation of society and companies and organizations in particular."
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
