@@ -29,7 +29,7 @@ assignees: # Users to assign downtime issues
 status-website:
   baseUrl: /Uptime-Monitor
   theme: night
-  favicon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
+  #favicon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
   faviconSvg: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.svg
   logoUrl: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
   name: Altyra Solutions Status
