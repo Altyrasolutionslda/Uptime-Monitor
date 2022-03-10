@@ -32,23 +32,23 @@ status-website:
   #favicon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
   faviconSvg: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.svg
   customHeadHtml: "<!-- Primary Meta Tags -->
-<title>Altyra Solutions Status is an uptime monitor and status page, powered entirely by GitHub.</title>
-<meta name='title' content='Altyra Solutions Status is an uptime monitor and status page, powered entirely by GitHub.'>
-<meta name='description' content='Altyra Solutions was born to meet the growing demand for tailor-made software development solutions. Our signature Let's make IT done reflects our commitment to developing solutions for the needs created by the challenging process of digital transformation of society and companies and organizations in particular.'>
-
-<!-- Open Graph / Facebook -->
-<meta property='og:type' content='website'>
-<meta property='og:url' content='https://altyrasolutionslda.github.io/Uptime-Monitor/'>
-<meta property='og:title' content='Altyra Solutions Status is an uptime monitor and status page, powered entirely by GitHub.'>
-<meta property='og:description' content='Altyra Solutions was born to meet the growing demand for tailor-made software development solutions. Our signature Let's make IT done reflects our commitment to developing solutions for the needs created by the challenging process of digital transformation of society and companies and organizations in particular.'>
-<meta property='og:image' content='https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/data-analysis.jpg'>
-
-<!-- Twitter -->
-<meta property='twitter:card' content='summary_large_image'>
-<meta property='twitter:url' content="https://altyrasolutionslda.github.io/Uptime-Monitor/">
-<meta property='twitter:title' content='Altyra Solutions Status is an uptime monitor and status page, powered entirely by GitHub.'>
-<meta property='twitter:description' content='Altyra Solutions was born to meet the growing demand for tailor-made software development solutions. Our signature Let's make IT done reflects our commitment to developing solutions for the needs created by the challenging process of digital transformation of society and companies and organizations in particular.'>
-<meta property='twitter:image' content='https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/data-analysis.jpg'>'
+                  <title>Altyra Solutions Status is an uptime monitor and status page, powered entirely by GitHub.</title>
+                  <meta name='title' content='Altyra Solutions Status is an uptime monitor and status page, powered                   entirely by GitHub.'>
+                  <meta name='description' content='Altyra Solutions was born to meet the growing demand for tailor-made                  software development solutions. Our signature Let's make IT done reflects our commitment to developing                  solutions for the needs created by the challenging process of digital transformation of society and                 companies and organizations in particular.'>
+                  
+                  <!-- Open Graph / Facebook -->
+                  <meta property='og:type' content='website'>
+                  <meta property='og:url' content='https://altyrasolutionslda.github.io/Uptime-Monitor/'>
+                  <meta property='og:title' content='Altyra Solutions Status is an uptime monitor and status page, powered                  entirely by GitHub.'>
+                  <meta property='og:description' content='Altyra Solutions was born to meet the growing demand for                   tailor-made software development solutions. Our signature Let's make IT done reflects our commitment to                   developing solutions for the needs created by the challenging process of digital transformation of                  society and companies and organizations in particular.'>
+                  <meta property='og:image' content='https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/                 master/assets/data-analysis.jpg'>
+                  
+                  <!-- Twitter -->
+                  <meta property='twitter:card' content='summary_large_image'>
+                  <meta property='twitter:url' content="https://altyrasolutionslda.github.io/Uptime-Monitor/">
+                  <meta property='twitter:title' content='Altyra Solutions Status is an uptime monitor and status page,                   powered entirely by GitHub.'>
+                  <meta property='twitter:description' content='Altyra Solutions was born to meet the growing demand for                  tailor-made software development solutions. Our signature Let's make IT done reflects our commitment to                 developing solutions for the needs created by the challenging process of digital transformation of                  society and companies and organizations in particular.'>
+                  <meta property='twitter:image' content='https://raw.githubusercontent.com/Altyrasolutionslda/                 Uptime-Monitor/master/assets/data-analysis.jpg'>'
   logoUrl: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/logoAltyra.png
   name: Altyra Solutions Status
   introTitle: "**Altyra Solutions Status** is an uptime monitor and status page, powered entirely by GitHub."
