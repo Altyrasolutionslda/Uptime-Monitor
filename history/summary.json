@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 944,
-    "timeDay": 889,
-    "timeWeek": 952,
-    "timeMonth": 944,
-    "timeYear": 944,
+    "time": 940,
+    "timeDay": 867,
+    "timeWeek": 909,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 822,
-    "timeDay": 989,
-    "timeWeek": 834,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "time": 831,
+    "timeDay": 1020,
+    "timeWeek": 866,
+    "timeMonth": 831,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 945,
-    "timeDay": 959,
-    "timeWeek": 935,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 944,
+    "timeDay": 949,
+    "timeWeek": 925,
+    "timeMonth": 944,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -62,18 +62,19 @@
     "url": "$SECRET_SITE4",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 780,
-    "timeDay": 858,
+    "time": 783,
+    "timeDay": 854,
     "timeWeek": 798,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
+      "2022-03-28": 0,
       "2022-03-09": 19
     }
   }
