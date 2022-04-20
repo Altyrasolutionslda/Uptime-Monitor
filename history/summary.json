@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 938,
-    "timeDay": 839,
-    "timeWeek": 1011,
-    "timeMonth": 930,
-    "timeYear": 938,
+    "time": 942,
+    "timeDay": 1136,
+    "timeWeek": 1017,
+    "timeMonth": 937,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2022-03-29": 23
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 834,
-    "timeDay": 1132,
-    "timeWeek": 926,
-    "timeMonth": 848,
+    "timeDay": 856,
+    "timeWeek": 934,
+    "timeMonth": 843,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2022-03-09": 19
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 936,
-    "timeDay": 1091,
-    "timeWeek": 1020,
-    "timeMonth": 933,
-    "timeYear": 936,
+    "time": 939,
+    "timeDay": 1110,
+    "timeWeek": 1045,
+    "timeMonth": 932,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -65,14 +65,14 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.87%",
     "time": 826,
-    "timeDay": 925,
-    "timeWeek": 864,
+    "timeDay": 843,
+    "timeWeek": 853,
     "timeMonth": 857,
     "timeYear": 826,
     "dailyMinutesDown": {
