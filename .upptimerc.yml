@@ -26,7 +26,12 @@ sites:
       - RProtasio
   #NaturalCarnes
   - name: Natur-Al-Carnes • Gestão
-    url: $SECRET_SITENC1
+    url: $SECRET_SITE5
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico
+    assignees:
+      - nevespt
+  - name: Natur-Al-Carnes • Leilão Online
+    url: $SECRET_SITE6
     icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico
     assignees:
       - nevespt
