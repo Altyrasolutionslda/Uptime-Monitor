@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 955,
-    "timeDay": 1244,
-    "timeWeek": 933,
-    "timeMonth": 946,
+    "timeDay": 1160,
+    "timeWeek": 939,
+    "timeMonth": 948,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2022-03-29": 23
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 831,
-    "timeDay": 907,
-    "timeWeek": 785,
-    "timeMonth": 814,
-    "timeYear": 831,
+    "time": 832,
+    "timeDay": 910,
+    "timeWeek": 800,
+    "timeMonth": 818,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 936,
-    "timeDay": 945,
-    "timeWeek": 882,
-    "timeMonth": 929,
-    "timeYear": 936,
+    "time": 939,
+    "timeDay": 1004,
+    "timeWeek": 909,
+    "timeMonth": 935,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 816,
-    "timeDay": 804,
-    "timeWeek": 773,
-    "timeMonth": 859,
+    "timeDay": 805,
+    "timeWeek": 777,
+    "timeMonth": 858,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2022-03-29": 596,
@@ -84,21 +84,21 @@
   {
     "name": "Natur-Al-Carnes • Gestão",
     "url": "$SECRET_SITENC1",
-    "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico",
+    "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-gestao",
     "status": "down",
-    "uptime": "1.86%",
-    "uptimeDay": "1.86%",
-    "uptimeWeek": "1.86%",
-    "uptimeMonth": "1.86%",
-    "uptimeYear": "1.86%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 2
     }
   }
 ]
