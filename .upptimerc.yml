@@ -24,6 +24,12 @@ sites:
     icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico
     assignees:
       - RProtasio
+  #NaturalCarnes
+  - name: Natur-Al-Carnes • Gestão
+    url: $SECRET_SITENC1
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico
+    assignees:
+      - nevespt
 assignees: # Users to assign downtime issues
   - andrenevesgomes
 status-website:
