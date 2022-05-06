@@ -27,7 +27,7 @@ sites:
   #NaturalCarnes
   - name: Natur-Al-Carnes • Gestão
     url: $SECRET_SITENC1
-    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico
+    icon: https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico
     assignees:
       - nevespt
 assignees: # Users to assign downtime issues
