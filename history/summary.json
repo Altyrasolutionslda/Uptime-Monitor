@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 959,
-    "timeDay": 1179,
-    "timeWeek": 969,
-    "timeMonth": 957,
-    "timeYear": 959,
+    "time": 962,
+    "timeDay": 1166,
+    "timeWeek": 975,
+    "timeMonth": 974,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-03-29": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 834,
-    "timeDay": 924,
-    "timeWeek": 816,
-    "timeMonth": 822,
-    "timeYear": 834,
+    "time": 836,
+    "timeDay": 954,
+    "timeWeek": 836,
+    "timeMonth": 833,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 940,
-    "timeDay": 1010,
-    "timeWeek": 921,
-    "timeMonth": 938,
-    "timeYear": 940,
+    "time": 941,
+    "timeDay": 1032,
+    "timeWeek": 931,
+    "timeMonth": 947,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 815,
-    "timeDay": 792,
+    "timeDay": 813,
     "timeWeek": 774,
-    "timeMonth": 855,
+    "timeMonth": 863,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2022-03-29": 596,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 799,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -105,18 +105,16 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-leilao-online",
     "status": "up",
-    "uptime": "18.06%",
-    "uptimeDay": "18.06%",
-    "uptimeWeek": "18.06%",
-    "uptimeMonth": "18.06%",
-    "uptimeYear": "18.06%",
-    "time": 888,
-    "timeDay": 888,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
-    "dailyMinutesDown": {
-      "2022-05-06": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 816,
+    "timeDay": 816,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
+    "dailyMinutesDown": {}
   }
 ]
