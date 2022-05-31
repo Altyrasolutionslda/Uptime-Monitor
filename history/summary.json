@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 951,
-    "timeDay": 1244,
-    "timeWeek": 876,
-    "timeMonth": 935,
-    "timeYear": 951,
+    "time": 950,
+    "timeDay": 822,
+    "timeWeek": 857,
+    "timeMonth": 931,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2022-03-29": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 913,
-    "timeDay": 2403,
-    "timeWeek": 1095,
-    "timeMonth": 1047,
-    "timeYear": 913,
+    "time": 911,
+    "timeDay": 782,
+    "timeWeek": 1085,
+    "timeMonth": 1039,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 945,
-    "timeDay": 1333,
-    "timeWeek": 983,
-    "timeMonth": 948,
-    "timeYear": 945,
+    "time": 943,
+    "timeDay": 768,
+    "timeWeek": 934,
+    "timeMonth": 942,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -65,16 +65,16 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
-    "time": 822,
-    "timeDay": 960,
-    "timeWeek": 766,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "uptimeYear": "99.44%",
+    "time": 821,
+    "timeDay": 668,
+    "timeWeek": 741,
+    "timeMonth": 817,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2022-03-29": 596,
       "2022-03-28": 54,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 983,
-    "timeWeek": 765,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "time": 774,
+    "timeDay": 671,
+    "timeWeek": 738,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 918,
-    "timeWeek": 735,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 778,
+    "timeDay": 1877,
+    "timeWeek": 884,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   }
 ]
