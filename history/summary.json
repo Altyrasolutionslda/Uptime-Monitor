@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 945,
-    "timeDay": 911,
-    "timeWeek": 830,
-    "timeMonth": 900,
+    "timeDay": 961,
+    "timeWeek": 846,
+    "timeMonth": 892,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2022-03-29": 23
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 902,
-    "timeDay": 582,
-    "timeWeek": 783,
-    "timeMonth": 1084,
-    "timeYear": 902,
+    "time": 903,
+    "timeDay": 1002,
+    "timeWeek": 782,
+    "timeMonth": 1087,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 942,
-    "timeDay": 809,
-    "timeWeek": 863,
-    "timeMonth": 931,
+    "timeDay": 972,
+    "timeWeek": 852,
+    "timeMonth": 932,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2022-03-09": 19
@@ -65,15 +65,15 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 843,
-    "timeDay": 645,
-    "timeWeek": 728,
-    "timeMonth": 854,
+    "timeDay": 858,
+    "timeWeek": 727,
+    "timeMonth": 855,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2022-03-29": 596,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 596,
-    "timeWeek": 691,
-    "timeMonth": 764,
-    "timeYear": 759,
+    "time": 760,
+    "timeDay": 798,
+    "timeWeek": 686,
+    "timeMonth": 766,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   },
   {
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 591,
-    "timeWeek": 679,
-    "timeMonth": 765,
+    "timeDay": 758,
+    "timeWeek": 654,
+    "timeMonth": 766,
     "timeYear": 758,
     "dailyMinutesDown": {}
   }
