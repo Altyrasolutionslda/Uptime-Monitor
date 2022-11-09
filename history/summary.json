@@ -93,10 +93,10 @@
     "url": "$SECRET_SITE5",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-gestao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 823,
@@ -104,16 +104,18 @@
     "timeWeek": 682,
     "timeMonth": 730,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 1
+    }
   },
   {
     "name": "Natur-Al-Carnes • Leilão Online",
     "url": "$SECRET_SITE6",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-leilao-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -122,6 +124,8 @@
     "timeWeek": 680,
     "timeMonth": 738,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 0
+    }
   }
 ]
