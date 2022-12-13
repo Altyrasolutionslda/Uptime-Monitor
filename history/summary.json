@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 985,
-    "timeDay": 810,
-    "timeWeek": 1031,
-    "timeMonth": 990,
+    "timeDay": 909,
+    "timeWeek": 1010,
+    "timeMonth": 988,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2022-10-06": 35,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 699,
-    "timeWeek": 799,
+    "time": 1012,
+    "timeDay": 765,
+    "timeWeek": 823,
     "timeMonth": 846,
-    "timeYear": 1013,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 999,
-    "timeDay": 989,
-    "timeWeek": 1540,
-    "timeMonth": 1127,
+    "timeDay": 915,
+    "timeWeek": 1564,
+    "timeMonth": 1126,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2022-09-27": 861,
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 931,
-    "timeDay": 659,
-    "timeWeek": 762,
-    "timeMonth": 811,
-    "timeYear": 931,
+    "time": 930,
+    "timeDay": 725,
+    "timeWeek": 775,
+    "timeMonth": 812,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2022-10-06": 35,
       "2022-08-13": 17,
@@ -99,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 807,
-    "timeDay": 635,
-    "timeWeek": 680,
-    "timeMonth": 717,
-    "timeYear": 807,
+    "time": 806,
+    "timeDay": 747,
+    "timeWeek": 701,
+    "timeMonth": 722,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-11-09": 39
     }
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 787,
-    "timeDay": 662,
-    "timeWeek": 718,
-    "timeMonth": 732,
+    "timeDay": 726,
+    "timeWeek": 726,
+    "timeMonth": 737,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2022-11-09": 38
