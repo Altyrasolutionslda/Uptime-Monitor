@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1036,
-    "timeDay": 788,
-    "timeWeek": 1015,
-    "timeMonth": 1079,
+    "timeDay": 1091,
+    "timeWeek": 1038,
+    "timeMonth": 1082,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2022-10-06": 35,
@@ -31,14 +31,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1005,
-    "timeDay": 644,
-    "timeWeek": 789,
-    "timeMonth": 923,
-    "timeYear": 1005,
-    "dailyMinutesDown": {
-      "2022-03-09": 19
-    }
+    "time": 1004,
+    "timeDay": 734,
+    "timeWeek": 742,
+    "timeMonth": 918,
+    "timeYear": 1004,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gestão Campanhas",
@@ -51,17 +49,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
-    "time": 1033,
-    "timeDay": 752,
-    "timeWeek": 915,
-    "timeMonth": 995,
-    "timeYear": 1033,
+    "time": 1032,
+    "timeDay": 999,
+    "timeWeek": 890,
+    "timeMonth": 991,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-09-27": 861,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
-      "2022-09-24": 806,
-      "2022-03-09": 19
+      "2022-09-24": 806
     }
   },
   {
@@ -70,16 +67,16 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.11%",
-    "time": 905,
-    "timeDay": 651,
-    "timeWeek": 747,
-    "timeMonth": 811,
-    "timeYear": 905,
+    "uptimeYear": "97.12%",
+    "time": 904,
+    "timeDay": 879,
+    "timeWeek": 736,
+    "timeMonth": 810,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2023-01-10": 599,
       "2023-01-09": 1440,
@@ -95,8 +92,7 @@
       "2022-10-06": 35,
       "2022-08-13": 17,
       "2022-03-29": 596,
-      "2022-03-28": 54,
-      "2022-03-09": 19
+      "2022-03-28": 54
     }
   },
   {
@@ -106,17 +102,16 @@
     "slug": "natur-al-carnes-gestao",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 869,
-    "timeDay": 11799,
-    "timeWeek": 3498,
-    "timeMonth": 1577,
-    "timeYear": 869,
+    "time": 868,
+    "timeDay": 773,
+    "timeWeek": 3477,
+    "timeMonth": 1559,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-03-08": 8,
       "2023-02-15": 30,
       "2022-11-09": 39
     }
@@ -128,17 +123,16 @@
     "slug": "natur-al-carnes-leilao-online",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 786,
-    "timeDay": 1585,
-    "timeWeek": 930,
-    "timeMonth": 887,
-    "timeYear": 786,
+    "time": 785,
+    "timeDay": 733,
+    "timeWeek": 910,
+    "timeMonth": 880,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-03-08": 7,
       "2023-02-15": 29,
       "2022-11-09": 38
     }
