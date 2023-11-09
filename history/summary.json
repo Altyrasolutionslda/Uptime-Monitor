@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1139,
-    "timeDay": 1535,
-    "timeWeek": 1218,
-    "timeMonth": 1197,
-    "timeYear": 1177,
+    "timeDay": 1064,
+    "timeWeek": 1228,
+    "timeMonth": 1204,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico",
     "slug": "cncp",
     "status": "down",
-    "uptime": "76.27%",
+    "uptime": "76.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.46%",
+    "uptimeYear": "60.19%",
     "time": 1067,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1010,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2023-11-08": 20,
+      "2023-11-09": 20,
+      "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -195,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 1044,
-    "timeDay": 1292,
-    "timeWeek": 1108,
-    "timeMonth": 1095,
+    "timeDay": 900,
+    "timeWeek": 1104,
+    "timeMonth": 1088,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-09-26": 677,
@@ -214,15 +215,15 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.24%",
     "time": 954,
-    "timeDay": 945,
-    "timeWeek": 806,
-    "timeMonth": 971,
+    "timeDay": 683,
+    "timeWeek": 810,
+    "timeMonth": 973,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2023-09-26": 30,
@@ -253,13 +254,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 798,
-    "timeDay": 935,
-    "timeWeek": 766,
-    "timeMonth": 796,
+    "timeDay": 707,
+    "timeWeek": 786,
+    "timeMonth": 800,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-02-15": 30,
-      "2022-11-09": 39
+      "2023-02-15": 30
     }
   },
   {
@@ -274,13 +274,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 770,
-    "timeDay": 3347,
-    "timeWeek": 1091,
-    "timeMonth": 922,
+    "timeDay": 638,
+    "timeWeek": 1097,
+    "timeMonth": 924,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2023-02-15": 29,
-      "2022-11-09": 38
+      "2023-02-15": 29
     }
   }
 ]
