@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE1",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconAPORMOR.ico",
     "slug": "apormor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1163,
-    "timeDay": 944,
-    "timeWeek": 1165,
-    "timeMonth": 1141,
-    "timeYear": 1141,
+    "timeDay": 761,
+    "timeWeek": 1092,
+    "timeMonth": 1123,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-07-09": 1
+      "2024-07-09": 7
     }
   },
   {
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2024-07-09": 702,
+      "2024-07-09": 709,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
