@@ -26,9 +26,9 @@
     "url": "$SECRET_SITE2",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico",
     "slug": "cncp",
-    "status": "up",
-    "uptime": "80.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "80.27%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -38,6 +38,7 @@
     "timeMonth": 1005,
     "timeYear": 1026,
     "dailyMinutesDown": {
+      "2025-08-04": 0,
       "2025-04-28": 190,
       "2025-03-29": 79,
       "2025-02-08": 255
@@ -145,7 +146,7 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "down",
-    "uptime": "55.66%",
+    "uptime": "55.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -156,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-04": 39,
+      "2025-08-04": 573,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
