@@ -79,7 +79,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.98%",
+    "uptimeYear": "41.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -308,16 +308,16 @@
     "url": "$SECRET_SITE5",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-gestao",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.32%",
     "time": 1043,
-    "timeDay": 783,
-    "timeWeek": 738,
-    "timeMonth": 1003,
+    "timeDay": 923,
+    "timeWeek": 778,
+    "timeMonth": 1005,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-10-20": 591,
@@ -327,7 +327,7 @@
       "2026-02-23": 23,
       "2026-04-22": 380,
       "2026-04-21": 139,
-      "2026-06-04": 2
+      "2026-06-04": 91
     }
   },
   {
@@ -335,17 +335,17 @@
     "url": "$SECRET_SITE6",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-leilao-online",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.32%",
     "time": 937,
-    "timeDay": 667,
-    "timeWeek": 656,
-    "timeMonth": 795,
-    "timeYear": 945,
+    "timeDay": 706,
+    "timeWeek": 667,
+    "timeMonth": 793,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2025-10-20": 591,
       "2025-10-19": 1440,
@@ -354,7 +354,7 @@
       "2026-02-23": 23,
       "2026-04-22": 380,
       "2026-04-21": 138,
-      "2026-06-04": 0
+      "2026-06-04": 89
     }
   }
 ]
