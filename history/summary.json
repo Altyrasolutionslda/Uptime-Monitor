@@ -26,7 +26,7 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico",
     "slug": "cncp",
     "status": "up",
-    "uptime": "84.17%",
+    "uptime": "84.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
@@ -75,11 +75,11 @@
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconGV.ico",
     "slug": "gestao-voluntariado",
     "status": "down",
-    "uptime": "54.53%",
+    "uptime": "54.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.30%",
+    "uptimeYear": "42.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -303,10 +303,10 @@
     "url": "$SECRET_SITE5",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-gestao",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.32%",
     "time": 1054,
@@ -322,7 +322,8 @@
       "2026-02-23": 23,
       "2026-04-22": 380,
       "2026-04-21": 139,
-      "2026-06-04": 91
+      "2026-06-04": 91,
+      "2026-06-09": 1
     }
   },
   {
@@ -330,9 +331,9 @@
     "url": "$SECRET_SITE6",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconNC.ico",
     "slug": "natur-al-carnes-leilao-online",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.32%",
@@ -349,7 +350,8 @@
       "2026-02-23": 23,
       "2026-04-22": 380,
       "2026-04-21": 138,
-      "2026-06-04": 89
+      "2026-06-04": 89,
+      "2026-06-09": 0
     }
   }
 ]
