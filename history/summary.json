@@ -25,22 +25,22 @@
     "url": "$SECRET_SITE2",
     "icon": "https://raw.githubusercontent.com/Altyrasolutionslda/Uptime-Monitor/master/assets/iconCNCP.ico",
     "slug": "cncp",
-    "status": "down",
+    "status": "up",
     "uptime": "84.75%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.91%",
-    "time": 1086,
-    "timeDay": 700,
-    "timeWeek": 840,
-    "timeMonth": 800,
-    "timeYear": 1101,
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.90%",
+    "time": 1085,
+    "timeDay": 774,
+    "timeWeek": 841,
+    "timeMonth": 801,
+    "timeYear": 1100,
     "dailyMinutesDown": {
       "2026-03-26": 26,
       "2026-05-21": 259,
       "2026-07-11": 205,
-      "2026-08-07": 0
+      "2026-08-07": 30
     }
   },
   {
